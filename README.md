@@ -10,8 +10,8 @@
 
 
 
-[![Linkedin: Nikoleta Evtimova](https://img.shields.io/badge/-nikoleta--evtimova-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hristo-andonov-62813a370/)
-[![Email: Nikoleta Evtimova](https://img.shields.io/badge/-nhristoandonov0000@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:hristoandonov0000@gmail.com)
+[![Linkedin: Nikoleta Evtimova](https://img.shields.io/badge/-hristo-andonov-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hristo-andonov-62813a370/)
+[![Email: Nikoleta Evtimova](https://img.shields.io/badge/-hristoandonov0000@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:hristoandonov0000@gmail.com)
 
 
 ### A little more about me...
