@@ -21,5 +21,5 @@
   <li><strong>Study 📖:</strong> Currently learning the beginnings of full stack development.</li>
   <li><strong>Goals 🚀:</strong> Curious about learning concepts from other programming languages and applying them to the ones I know.</li>
   <li><strong>Interests 🌟:</strong> A strong interest in electrical engineering.</li>
-  <li><strong>Hobbies 🎨:</strong> Drawing and making music./li>
+  <li><strong>Hobbies 🎨:</strong> Drawing and making music.</li>
 </ul>
