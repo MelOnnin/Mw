@@ -10,16 +10,16 @@
 
 
 
-[![Linkedin: Hristo Andonov](https://img.shields.io/badge/-hristo--andonov-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hristo-andonov-62813a370/)
+[![Linkedin: Hristo Andonov](https://img.shields.io/badge/-Hristo--Andonov-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hristo-andonov-62813a370/)
 [![Email: Hristo Andonov](https://img.shields.io/badge/-hristoandonov0000@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:hristoandonov0000@gmail.com)
 
 
 ### A little more about me...
 
 <ul>
-  <li><strong>Education 🎓:</strong> I hold a Bachelor's degree in Software and Hardware Engineering.</li>
-  <li><strong>Study 📖:</strong> Currently learning Python 🐍 and AI, also I'm in the final stages of my master's degree in Robotics and Mechatronics. </li>
-  <li><strong>Goals 🚀:</strong> Developing something that will be helpful to humanity.</li>
-  <li><strong>Interests 🌟:</strong> Coding 💻, Exploring New Technologies 🌐 , AI, Robotics 🤖</li>
-  <li><strong>Hobbies 🎨:</strong> Dancing 💃, Photography 📸</li>
+  <li><strong>Education 🎓:</strong> I'm currently studying for a Bachelor's degree in Software and Hardware Engineering.</li>
+  <li><strong>Study 📖:</strong> Currently learning the beginnings of full stack development.</li>
+  <li><strong>Goals 🚀:</strong> Curious about learning concepts from other programming languages and applying them to the ones I know.</li>
+  <li><strong>Interests 🌟:</strong> A strong interest in electrical engineering.</li>
+  <li><strong>Hobbies 🎨:</strong> Drawing and making music./li>
 </ul>
